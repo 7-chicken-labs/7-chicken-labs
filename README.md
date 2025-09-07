@@ -33,6 +33,9 @@ We’ve built impactful solutions across industries:
   <a href="https://github.com/x-darkvanilla-x">
     <img src="https://avatars.githubusercontent.com/u/122479676?v=4" width="80" height="80"/>
   </a>
+  <a href="https://github.com/vrushal1018">
+    <img src="https://avatars.githubusercontent.com/u/220584900?v=4" width="80" height="80"/>
+  </a>
 </p>
 
 <br />
