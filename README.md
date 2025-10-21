@@ -1,8 +1,8 @@
-# 🐔 7 Chicken Labs
+# 🐔 7 Chicken Labs (CodeMint)
 
 🚀 *Where Ideas Hatch Into Innovation*  
 
-Welcome to **7 Chicken Labs** – a creative tech team helping startups and businesses strengthen their digital presence, engage customers, and scale faster.  
+Welcome to **7 Chicken Labs/CodeMint** – a creative tech team helping startups and businesses strengthen their digital presence, engage customers, and scale faster.  
 We blend modern technology with innovative design to deliver **websites, mobile apps, and branding** that stand out.
 
 <br />
@@ -12,15 +12,6 @@ We blend modern technology with innovative design to deliver **websites, mobile 
 - 📱 **Mobile Apps** – Cross-platform apps with React Native  
 - 🎨 **Branding & Design** – UI/UX, graphics, and digital identity  
 - 🔧 **Support & Strategy** – Maintenance, consulting, and Agile workflows  
-
-<br />
-
-## 💡 Our Work
-We’ve built impactful solutions across industries:  
-- Healthcare apps with **10k+ users**  
-- Professional coaching platforms (ICF-certified programs)  
-- Sports & fitness websites  
-- Consumer brand platforms (skincare, lifestyle, products)
 
 <br />
 
@@ -35,6 +26,9 @@ We’ve built impactful solutions across industries:
   </a>
   <a href="https://github.com/vrushal1018">
     <img src="https://avatars.githubusercontent.com/u/220584900?v=4" width="80" height="80"/>
+  </a>
+  <a href="https://github.com/BEAST1807">
+    <img src="https://avatars.githubusercontent.com/u/182793841?v=4" width="80" height="80"/>
   </a>
 </p>
 
