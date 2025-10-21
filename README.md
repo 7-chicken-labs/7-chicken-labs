@@ -1,6 +1,4 @@
-# 🐔 7 Chicken Labs (CodeMint)
-
-🚀 *Where Ideas Hatch Into Innovation*  
+# 7 Chicken Labs (aka CodeMint)
 
 Welcome to **7 Chicken Labs/CodeMint** – a creative tech team helping startups and businesses strengthen their digital presence, engage customers, and scale faster.  
 We blend modern technology with innovative design to deliver **websites, mobile apps, and branding** that stand out.
