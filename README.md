@@ -28,6 +28,9 @@ We blend modern technology with innovative design to deliver **websites, mobile 
   <a href="https://github.com/BEAST1807">
     <img src="https://avatars.githubusercontent.com/u/182793841?v=4" width="80" height="80"/>
   </a>
+  <a href="https://github.com/akshayhydra">
+    <img src="https://avatars.githubusercontent.com/u/129942680?v=4" width="80" height="80"/>
+  </a>
 </p>
 
 <br />
